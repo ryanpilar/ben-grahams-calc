@@ -1,0 +1,34 @@
+{
+  "tasks": [
+    {
+      "text": "neo cheow",
+      "day": "tuesdatch",
+      "reminder": true,
+      "id": 9
+    },
+    {
+      "text": "Another Cheow",
+      "day": "mich mich",
+      "reminder": true,
+      "id": 10
+    },
+    {
+      "text": "oh no",
+      "day": "thurstche",
+      "reminder": false,
+      "id": 11
+    },
+    {
+      "text": "Don't forget to water the plants",
+      "day": "tuesday & friday",
+      "reminder": false,
+      "id": 12
+    },
+    {
+      "text": "Groceries / Walk the dog / Buddy to work / Buy Fertilizer",
+      "day": "thursday",
+      "reminder": true,
+      "id": 13
+    }
+  ]
+}
