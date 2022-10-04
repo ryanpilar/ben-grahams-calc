@@ -1,14 +1,33 @@
 # 🚀 Ben Graham's Calculator
 
+---
 ![image](https://user-images.githubusercontent.com/102194829/193948420-ca98e672-42e9-4ba5-8424-d456487f83a9.png)
 
+---
 
+## 👋  Introduction
 
-## Available Scripts
+The intelligent investor info
 
-In the project directory, you can run:
+---
 
-### `npm server'
+## 🤷‍♂️  Who is this for? 
+
+It's for people that want to value invest
+
+---
+
+## 💪  Packages/Dependencies
+
+HTML | CSS | React | json-server | react-router-dom 
+
+---
+
+## 🖥  How to run / Available Scripts
+
+To demo: In the project directory, first `npm install`, than `npm run server`, than `npm run start`:
+
+### `npm server`
 Runs/starts the json server to interact with the task data
 
 ### `npm start`
@@ -28,4 +47,18 @@ The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+---
+
+## 🔨  Improvements on the Application
+
+- plan layout of app
+
+---
+
+ 
+ Have fun testing and improving it! 😎
+
+
+
 
