@@ -129,7 +129,7 @@ function App() {
           <Header 
             isShowing={showAddTask} 
             onAdd={revealAddTask} 
-            title='Task Tracker' />
+            title="Ben Graham Screener" />
 
           
           <Routes>
