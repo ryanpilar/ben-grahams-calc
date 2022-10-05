@@ -15,7 +15,7 @@ Users have the ability to sign-in, search tickers, make custom lists and export 
 
 ## 🤷‍♂️  Who is this for? 
 
-It's for people that want to value invest and who are interested in the principals that Ben Graham presents
+It's for people that want to value invest and who are interested in the principals of Ben Graham
 
 ---
 
