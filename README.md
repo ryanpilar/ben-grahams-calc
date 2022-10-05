@@ -1,7 +1,7 @@
-# 🚀 Ben Graham Screener
+# 🚀 The Ben Graham Screener
 
 ---
-![image](https://user-images.githubusercontent.com/102194829/193964365-4b73e3ca-4109-4fd2-a18f-d58c6f545388.png)
+![image](https://user-images.githubusercontent.com/102194829/193968790-0b9f85eb-beda-45f1-851f-c2034fde146a.png)
 
 ---
 
