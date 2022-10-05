@@ -99,14 +99,13 @@ Growth rate = expected yearly growth rate of earnings over 7-10 years
 
 Metric | Value | Notes
 --- | --- | ---
-Gross Yearly Sales | > 500m | **nicely**
-Current Ratio | > 200% | **nicely**
-Dividend History | No missed dividends in 20 years | **nicely**
-Earnings Deficit | None in the last 10 years | **nicely**
-Earnings Growth | At least 33% growth in earning in the last 10 years ~ which is 2.9% growth annually | **nicely**
-Market Cap | `` | **nicely**
-Net Current Asset Value | NCAV = Current Assets - Total Liabilities - Preferred Shares | **nicely**
-1 | 2 | 3
+Gross Yearly Sales | > 500m | 
+Current Ratio | > 200% | **Current assets**: <br> `Current Assets = C + CE + I + AR + MS + PE + OLA` `C = Cash` `CE = Cash Equivalents` `I = Inventory` `AR = Accounts Receivable` `MS = Marketable Securities` `PE = Prepaid Expenses` `OLA = Other Liquid Assets` <br><br> **Current liabilities** <br> `Accounts payable` `Deferred tax liabilities` `Financial debt`
+Dividend History | No missed dividends in 20 years | 
+Earnings Deficit | None in the last 10 years | 
+Earnings Growth | At least 33% growth in earning in the last 10 years ~ which is 2.9% growth annually |
+Market Cap | | 
+Net Current Asset Value | NCAV = Current Assets - Total Liabilities - Preferred Shares | `Balance Sheet` `Current assets` `Long term assets` `Current liabilities` `Long term liabilities` `Total liabilities` `Shareholder equity`
 
 ---
 
