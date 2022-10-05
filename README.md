@@ -1,13 +1,16 @@
 # 🚀 Ben Graham's Calculator
 
 ---
-![image](https://user-images.githubusercontent.com/102194829/193948420-ca98e672-42e9-4ba5-8424-d456487f83a9.png)
+![image](https://user-images.githubusercontent.com/102194829/193964365-4b73e3ca-4109-4fd2-a18f-d58c6f545388.png)
 
 ---
 
 ## 👋  Introduction
 
-The intelligent investor info
+This is a fin-tech application that integrates with financial market data, and sorts said equities according to Ben Graham’s interpretation of value investing and margin of safety. 
+<br><br>
+Users have the ability to sign-in, search tickers, make custom lists and export their findings to csv/xcel.
+
 
 
 
@@ -15,7 +18,7 @@ The intelligent investor info
 
 ## 🤷‍♂️  Who is this for? 
 
-It's for people that want to value invest
+It's for people that want to value invest and who are interested in the principals that Ben Graham presents
 
 ---
 
@@ -31,6 +34,8 @@ To demo: In the project directory, first `npm install`, than `npm run server`, t
 
 ### `npm server`
 Runs/starts the json server to interact with the task data
+Open [http://localhost:5000/tasks](http://localhost:5000/tasks) to view data in your browser.
+
 
 ### `npm start`
 
@@ -53,7 +58,11 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 ---
 
 ## 🧮 The Math / Philosophy
- 
+
+The greatest investment advisor of the twentieth century, Benjamin Graham, taught and inspired people worldwide. Graham's philosophy of "value investing" - which shields investors from substantial error and teaches them to develop long-term strategies - has made The Intelligent Investor the stock market bible ever since its original publication in 1949.
+<br><br>
+Over the years, market developments have proven the wisdom of Graham's strategies. 
+
 ### A Defensive Enterprising (active) Investor 
 
 Since its so easy as an average investor to get the average of the market, it seems like if you invest more time you can beat the market. This is not quite the case and requires a lot more than that simple logic would make it seem to look.
@@ -111,7 +120,15 @@ Net Current Asset Value | NCAV = Current Assets - Total Liabilities - Preferred 
 
 ## 🔨  Improvements on the Application
 
-- plan layout of app
+Done:
+1. First sample UI / components. Space theme. Set-up tests with sample ‘task’ data. Bulk horizontal layout looks good. Double click to favourite and ‘x’ to delete from view.
+
+Todo:
+1. Convert from json-server to MongoDB
+2. Set-up Google Auth
+3. Integrate with [finnhub.](https://finnhub.io/) and draw needed data
+4. Define a 'Graham Number' and sort accrodingly
+5. Hook up tradingview
 
 ---
 
