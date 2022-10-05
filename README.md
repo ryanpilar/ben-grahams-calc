@@ -1,4 +1,4 @@
-# 🚀 Ben Graham's Calculator
+# 🚀 Ben Graham Screener
 
 ---
 ![image](https://user-images.githubusercontent.com/102194829/193964365-4b73e3ca-4109-4fd2-a18f-d58c6f545388.png)
@@ -10,9 +10,6 @@
 This is a fin-tech application that integrates with financial market data, and sorts said equities according to Ben Graham’s interpretation of value investing and margin of safety. 
 <br><br>
 Users have the ability to sign-in, search tickers, make custom lists and export their findings to csv/xcel.
-
-
-
 
 ---
 
